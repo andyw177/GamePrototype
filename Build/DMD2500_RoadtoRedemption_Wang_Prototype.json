@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Road to Redemption",
+"productVersion": "6.0",
+"dataUrl": "DMD2500_RoadtoRedemption_Wang_Prototype.data.unityweb",
+"asmCodeUrl": "DMD2500_RoadtoRedemption_Wang_Prototype.asm.code.unityweb",
+"asmMemoryUrl": "DMD2500_RoadtoRedemption_Wang_Prototype.asm.memory.unityweb",
+"asmFrameworkUrl": "DMD2500_RoadtoRedemption_Wang_Prototype.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
